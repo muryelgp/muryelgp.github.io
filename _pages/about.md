@@ -15,6 +15,6 @@ My research lies in the intersection between high-energy astrophysics and time-d
 
 Before joining JHU, I earned both my B.Sc. and Master’s degrees in Physics and Astronomy at the <a href="https://ppgfsc.posgrad.ufsc.br/?lang=en" target="_blank">Federal University of Santa Catarina</a>. My research there centered on galaxy evolution and active galactic nuclei, where I collaborated closely with and was adivised by <a href="https://scholar.google.com.br/citations?user=_NWGzLIAAAAJ&hl=en" target="_blank">Roberto Cid Fernandes</a>, <a href="https://scholar.google.com/citations?user=rGfZ3zoAAAAJ&hl=en" target="_blank">Daniel Ruschel-Dutra</a>, and <a href="https://scholar.google.com.br/citations?user=-qF-yBUAAAAJ&hl=pt-BR" target="_blank">Thaisa Storchi Bergmann</a>.
 
-* Contact Me
+### Contact Me
 ---
 mguolop1@jhu.edu

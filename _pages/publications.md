@@ -6,7 +6,7 @@ author_profile: true
 ---
 * First author papers on [ADS](https://ui.adsabs.harvard.edu/public-libraries/CyqjsOpdREuKOMu5EJ5Rvg) 
 * All papers on [ADS](https://ui.adsabs.harvard.edu/public-libraries/lHCJQkA5RRq0lVPfYUWghw)
-
+  
 * <h2>First Author Publications</h2> 
 *(6) Guolo, M., Mummery, A., Wevers, T., Nicholl, M, et al., 2025, The properties of GSN 069 accretion disk from a joint X-ray and UV spectral analysis: stress-testing quasi-periodic eruption models, [arXiv:2501.03333](https://arxiv.org/abs/2501.03333)}.
 * (5) Guolo, M. \& Mummery, A., 2025, The Size of Accretion Disks from Self-consistent X-Ray Spectra and UV/Optical/NIR Photometry Fitting: Applications to ASASSN–14li and HLX–1, [ApJ, 978 167](https://iopscience.iop.org/article/10.3847/1538-4357/ad990a).

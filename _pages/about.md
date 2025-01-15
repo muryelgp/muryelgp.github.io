@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-My name is Muryel Guolo, and I am a rising forth-year graduate student in the <a href="https://physics-astronomy.jhu.edu" target="_blank">William H. Miller III Department of Physics and Astronomy</a> at Johns Hopkins University (JHU), where I work under the guidance of <a href="https://www.stsci.edu/who-we-are/leadership/suvi-gezari" target="_blank">Suvi Gezari</a>.
+My name is Muryel Guolo, and I am a rising forth-year graduate student in the <a href="https://physics-astronomy.jhu.edu" target="_blank">William H. Miller III Department of Physics and Astronomy</a> at Johns Hopkins University (JHU), where I work under the guidance of <a href="https://physics-astronomy.jhu.edu/directory/suvi-gezari/" target="_blank">Suvi Gezari</a>.
 
 My research lies in the intersection between high-energy astrophysics and time-domain astronomy, with a focus on understanding black hole accretion processes in the time-domain era. I utilize wide-field sky surveys and targeted multi-wavelength observations to study transient astronomical phenomena associated with black holes, such as tidal disruption events (TDEs) and quasi-periodic X-ray eruptions (QPEs). A key aspect of my work involves developing innovative data analysis approaches and techniques to test theoretical models for these phenomena.
 

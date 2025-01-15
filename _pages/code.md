@@ -10,5 +10,4 @@ pyXPSEC Model/Package used to simultaneously fit X-ray spectra and UV/Optical/NI
 
 
 Repository: [Github Page](https://github.com/muryelgp/diskSED).
-
 Reference: [Guolo & Mummery, 2025](https://arxiv.org/abs/2408.17296).

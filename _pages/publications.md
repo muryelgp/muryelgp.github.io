@@ -4,8 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* First author papers on [ADS](https://ui.adsabs.harvard.edu/public-libraries/CyqjsOpdREuKOMu5EJ5Rvg) 
-* All papers on [ADS](https://ui.adsabs.harvard.edu/public-libraries/lHCJQkA5RRq0lVPfYUWghw)
+* First author papers on [ADS](https://ui.adsabs.harvard.edu/search/q=docs(library%2FCyqjsOpdREuKOMu5EJ5Rvg)&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+* All papers on [ADS](https://ui.adsabs.harvard.edu/search/q=docs(library%2FlHCJQkA5RRq0lVPfYUWghw)&sort=date%20desc%2C%20bibcode%20desc&p_=0)
   
 ## <h2>First Author Publications</h2> 
 * (6) Guolo, M., Mummery, A., Wevers, T., Nicholl, M, et al., 2025, The properties of GSN 069 accretion disk from a joint X-ray and UV spectral analysis: stress-testing quasi-periodic eruption models, [arXiv:2501.03333](https://arxiv.org/abs/2501.03333)}.

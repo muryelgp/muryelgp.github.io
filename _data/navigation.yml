@@ -4,7 +4,7 @@ main:
     url: /publications/
 
   - title: "Code and Data"
-    url: /Code/
+    url: /code/
     
   - title: "CV"
     url: /cv/

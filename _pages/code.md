@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Code and Data"
-permalink: /code_data/
+permalink: /code/
 author_profile: true
 ---
 

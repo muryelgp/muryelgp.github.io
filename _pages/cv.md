@@ -6,6 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<span style="color:#5DADE2">[My full CV](https://muryelgp.github.io/files/CV_MuryelGuolo.pdf)</span> (Last updated: March 2025)
+<span style="color:#5DADE2">[My full CV](https://muryelgp.github.io/files/CV_MuryelGuolo.pdf)</span> (Last updated: May 2025)
 
 

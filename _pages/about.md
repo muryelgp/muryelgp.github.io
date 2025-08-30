@@ -21,7 +21,7 @@ redirect_from:
 
 
 
-I am a theory-oriented observational astrophysicist and a fourth-year graduate student in the <a href="https://physics-astronomy.jhu.edu" target="_blank">William H. Miller III Department of Physics and Astronomy</a> at Johns Hopkins University (JHU), where I work under the guidance of <a href="https://physics-astronomy.jhu.edu/directory/suvi-gezari/" target="_blank">Suvi Gezari</a>.
+I am a high-energy astrophysicist and a fourth-year graduate student in the <a href="https://physics-astronomy.jhu.edu" target="_blank">William H. Miller III Department of Physics and Astronomy</a> at Johns Hopkins University (JHU), where I work under the guidance of <a href="https://physics-astronomy.jhu.edu/directory/suvi-gezari/" target="_blank">Suvi Gezari</a>.
 
 My research lies at the intersection of high-energy astrophysics and time-domain astronomy, with a focus on understanding black hole accretion processes in the era of wide-field surveys and rapid multi-wavelength follow-up. I study transient phenomena associated with black holes—such as tidal disruption events (TDEs) and quasi-periodic X-ray eruptions (QPEs)—using observations spanning from X-rays to the infrared. I'm interested in using these phenomena to probe fundamental aspects of black hole accretion and formation. Additionally, I am also interested in the study of X-ray binaries, intermediate-mass black holes (IMBHs) and the search for high redshift transients. 
 

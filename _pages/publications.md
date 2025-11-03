@@ -8,6 +8,7 @@ author_profile: true
 * All papers on [ADS](https://ui.adsabs.harvard.edu/search/q=docs(library%2FlHCJQkA5RRq0lVPfYUWghw)&sort=date%20desc%2C%20bibcode%20desc&p_=0)
   
 ## First Author Publications
+* (8)  Guolo, M. ;  Mummery, A. ; van Velzen, S., Gezari, S., et al. 2025, Compact Accretion Disks in the Aftermath of Tidal Disruption Events: Parameter Inference from Joint X-ray Spectra and UV/Optical Photometry Fitting [ArXiv:2510.26774](https://arxiv.org/abs/2510.26774)
 * (7) Guolo, M. ;  Mummery, A. ;  Ingram, A., Nicholl, M, et al, 2025, A Time-Dependent Solution for GSN 069 Disk Evolution and the Nature of Long-lived Tidal Disruption Events, [ApJ, 992, 114](https://iopscience.iop.org/article/10.3847/1538-4357/ae039e).
 * (6) Guolo, M., Mummery, A., Wevers, T., Nicholl, M, et al., 2025, The properties of GSN 069 accretion disk from a joint X-ray and UV spectral analysis: stress-testing quasi-periodic eruption models, [ApJ, 985 146](https://iopscience.iop.org/article/10.3847/1538-4357/adcbac).
 * (5) Guolo, M. & Mummery, A., 2025, The Size of Accretion Disks from Self-consistent X-Ray Spectra and UV/Optical/NIR Photometry Fitting: Applications to ASASSN–14li and HLX–1, [ApJ, 978 167](https://iopscience.iop.org/article/10.3847/1538-4357/ad990a).

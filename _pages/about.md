@@ -20,9 +20,9 @@ redirect_from:
 </script>
 
 
-I am a high-energy astrophysicist and a final-year graduate student in the <a href="https://physics-astronomy.jhu.edu" target="_blank">Department of Physics and Astronomy</a> at Johns Hopkins University (JHU), where I work under the guidance of <a href="https://physics-astronomy.jhu.edu/directory/suvi-gezari/" target="_blank">Suvi Gezari</a>. In Fall 2026, I will start as a Member (Independent Research Fellow) of the School of Natural Sciences at the <a href="https://www.ias.edu" target="_blank">Institute for Advanced Study</a> in Princeton.
+I am a high-energy astrophysicist and a final-year graduate student in the <a href="https://physics-astronomy.jhu.edu" target="_blank">Department of Physics and Astronomy</a> at Johns Hopkins University, where I work under the guidance of <a href="https://physics-astronomy.jhu.edu/directory/suvi-gezari/" target="_blank">Suvi Gezari</a>. In Fall 2026, I will start as a Member (Independent Research Fellow) of the School of Natural Sciences at the <a href="https://www.ias.edu" target="_blank">Institute for Advanced Study</a> in Princeton.
 
-I am interested in the general aspects of black hole accretion, formation, and demographics, particularly those that can be probed by time-domain astronomy. Tidal disruption events (TDEs) have been the major focus of my research.
+I am interested in the general aspects of black hole accretion, formation, and demographics, particularly those that can be probed by time-domain astronomy. Tidal disruption events have been the major focus of my research.
 
 Before JHU, I earned both my B.Sc. and Master’s degrees in Physics and Astronomy at the <a href="https://ppgfsc.posgrad.ufsc.br/?lang=en" target="_blank">Federal University of Santa Catarina</a> in Brazil.
 

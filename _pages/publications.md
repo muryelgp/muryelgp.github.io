@@ -8,6 +8,7 @@ author_profile: true
 * All papers on [ADS](https://ui.adsabs.harvard.edu/search/q=docs(library%2FlHCJQkA5RRq0lVPfYUWghw)&sort=date%20desc%2C%20bibcode%20desc&p_=0)
   
 ## First Author Publications
+<div style="font-size: 14px;">
 * (10) Guolo, M. , Demographics of Wandering Black Holes Powering Off-Nuclear Tidal Disruption Events, [ArXiv:2602.12970](https://arxiv.org/abs/2602.12970).
 * (9)  Guolo, M. ;  Mummery, A. ; van Velzen, S., Nicholl, M., et al. 2026, The Wandering Supermassive Black Hole Powering the off-nuclear TDE AT2024tvd, [ArXiv:2602.12272](https://arxiv.org/abs/2602.12272).
 * (8)  Guolo, M. ;  Mummery, A. ; van Velzen, S., Gezari, S., et al. 2025, Compact Accretion Disks in the Aftermath of Tidal Disruption Events: Parameter Inference from Joint X-ray Spectra and UV/Optical Photometry Fitting [ArXiv:2510.26774](https://arxiv.org/abs/2510.26774)
@@ -18,3 +19,5 @@ author_profile: true
 * (3) Guolo, M., Pasham, D., Zajacek., Coughlin, E., Gezari, S., et al., 2024, X-ray eruptions every 22 days from the nucleus of a nearby galaxy, [Nature Astronomy, 8, 347](https://www.nature.com/articles/s41550-023-02178-4#Abs1).
 * (2) Guolo, M., Ruschel-Dutra, D., Grupe, D., Peterson, B., et al., 2021, The Eddington ratio-dependent `changing look' events in NGC 2992, [MNRAS, 508, 1](https://academic.oup.com/mnras/article/508/1/144/6368864).
 * (1) Guolo, M., Ruschel-Dutra, D., Storchi-Bergmann, T., et al., 2021, Exploring the AGN-Merger Connection in Arp 245 I: Nuclear Star Formation and Gas Outflow in NGC 2992 [MNRAS, 502, 3618](https://academic.oup.com/mnras/article/502/3/3618/6123892).
+
+</div>

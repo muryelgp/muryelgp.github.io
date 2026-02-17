@@ -22,7 +22,7 @@ redirect_from:
 
 I am a high-energy astrophysicist and a final-year graduate student in the <a href="https://physics-astronomy.jhu.edu" target="_blank">Department of Physics and Astronomy</a> at Johns Hopkins University, where I work under the guidance of <a href="https://physics-astronomy.jhu.edu/directory/suvi-gezari/" target="_blank">Suvi Gezari</a>. 
 
-In Fall 2026, I will be joining the <a href="https://www.ias.edu" target="_blank">Institute for Advanced Study</a> as a Member (Independent Research Fellow) of the School of Natural Sciences.
+In the Fall of 2026, I will be joining the <a href="https://www.ias.edu" target="_blank">Institute for Advanced Study</a> as a Member (Independent Research Fellow) of the School of Natural Sciences.
 
 I am interested in the general aspects of black hole accretion, formation, and demographics, particularly those that can be probed by time-domain astronomy. Tidal disruption events have been the major focus of my research.
 

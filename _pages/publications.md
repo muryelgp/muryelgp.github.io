@@ -8,7 +8,7 @@ author_profile: true
 * All papers on [ADS](https://ui.adsabs.harvard.edu/search/q=docs(library%2FlHCJQkA5RRq0lVPfYUWghw)&sort=date%20desc%2C%20bibcode%20desc&p_=0)
   
 ## First Author Publications
-<div style="font-size: 14px;">
+<div style="font-size: 12px;">
 * (10) Guolo, M. , Demographics of Wandering Black Holes Powering Off-Nuclear Tidal Disruption Events, [ArXiv:2602.12970](https://arxiv.org/abs/2602.12970).
 * (9)  Guolo, M. ;  Mummery, A. ; van Velzen, S., Nicholl, M., et al. 2026, The Wandering Supermassive Black Hole Powering the off-nuclear TDE AT2024tvd, [ArXiv:2602.12272](https://arxiv.org/abs/2602.12272).
 * (8)  Guolo, M. ;  Mummery, A. ; van Velzen, S., Gezari, S., et al. 2025, Compact Accretion Disks in the Aftermath of Tidal Disruption Events: Parameter Inference from Joint X-ray Spectra and UV/Optical Photometry Fitting [ArXiv:2510.26774](https://arxiv.org/abs/2510.26774)

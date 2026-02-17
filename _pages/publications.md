@@ -9,7 +9,7 @@ author_profile: true
   
 ## First Author Publications
 
-<div style="font-size:18px; line-height:1.5;">
+<div style="font-size:15px; line-height:1.5;">
 
 <ul>
   <li>(10) Guolo, M., Demographics of Wandering Black Holes Powering Off-Nuclear Tidal Disruption Events,

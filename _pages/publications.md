@@ -16,8 +16,8 @@ author_profile: true
     <a href="https://arxiv.org/abs/2602.12970">ArXiv:2602.12970</a>.
   </li>
 
-  <li>(9) Guolo, M.; Mummery, A.; van Velzen, S., Nicholl, M., et al. 2026, The Wandering Supermassive Black Hole Powering the off-nuclear TDE AT2024tvd,
-    <a href="https://arxiv.org/abs/2602.12272">ArXiv:2602.12272</a>.
+  <li>(9) Guolo, M.; Mummery, A.; van Velzen, S., Nicholl, M., et al. 2026, The Wandering Supermassive Black Hole Powering the Off-nuclear Tidal Disruption Event AT2024tvd,
+    <a href="https://iopscience.iop.org/article/10.3847/2041-8213/ae732d">ApJ Letters, 1004, 25</a>.
   </li>
 
   <li>(8) Guolo, M.; Mummery, A.; van Velzen, S., Gezari, S., et al. 2025, Compact Accretion Disks in the Aftermath of Tidal Disruption Events: Parameter Inference from Joint X-ray Spectra and UV/Optical Photometry Fitting,

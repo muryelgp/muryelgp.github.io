@@ -20,7 +20,7 @@ redirect_from:
 </script>
 
 
-I am a Postdoctoral Member in the School of Natural Sciences at the <a href="https://www.ias.edu" target="_blank">Institute for Advanced Study</a> in Princeton.
+I am a Postdoctoral Fellow and a Member of the School of Natural Sciences at the <a href="https://www.ias.edu" target="_blank">Institute for Advanced Study</a> in Princeton.
 
 I am broadly interested in black hole accretion, formation, and demographics, particularly in questions that can be explored through time-domain astronomy. Tidal disruption events have been the primary focus of my research.
 
